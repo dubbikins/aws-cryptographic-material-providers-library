@@ -10,4 +10,3 @@ require (
 	golang.org/x/sys v0.36.0
 )
 
-replace github.com/aws/aws-cryptographic-material-providers-library/releases/go/smithy-dafny-standard-library v0.2.2 => .
